@@ -22,8 +22,6 @@
 1.  复刻本仓库或从[发行版](https://github.com/Aionfatedio/AokanaUnpacker/releases/tag/v0.0.1)下载并运行 `SpriteUnpacker.exe`。
 2.  将游戏目录下的资源文件（如 `sprites.dat`, `bgm.dat`, `voice.dat`）拖入控制台窗口，程序将自动在 `.dat` 指定的目录下创建解包文件夹。
 
------
-
 ## 已支持的游戏
 
 | 游戏名称 | 状态 | 备注 |
@@ -32,8 +30,6 @@
 | **苍之彼方的四重奏 (Aokana) EXTRA1** | ✅ 支持 | 使用 Legacy 密钥配置 |
 | **苍之彼方的四重奏 (Aokana) EXTRA2** | ✅ 支持 | 使用 Extra2 密钥配置 |
 | **Sprite社其他新作** | 🛠 可扩展 | 需手动提取参数 (见下文) |
-
------
 
 ## 可扩展性 
 
