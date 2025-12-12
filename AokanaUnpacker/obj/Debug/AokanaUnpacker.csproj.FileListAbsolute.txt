@@ -1,0 +1,7 @@
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\bin\Debug\AokanaUnpacker.exe.config
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\bin\Debug\AokanaUnpacker.exe
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\bin\Debug\AokanaUnpacker.pdb
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\obj\Debug\AokanaUnpacker.csproj.AssemblyReference.cache
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\obj\Debug\AokanaUnpacker.csproj.CoreCompileInputs.cache
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\obj\Debug\AokanaUnpacker.exe
+D:\Code\C# code\AokanaUnpacker\AokanaUnpacker\obj\Debug\AokanaUnpacker.pdb
